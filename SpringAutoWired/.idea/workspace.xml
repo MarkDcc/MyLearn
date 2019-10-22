@@ -18,8 +18,8 @@
       <file leaf-file-name="CDPlayerClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/CDPlayerClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="198">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,19 +27,94 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompactDisc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/CompactDisc.java">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BeanPackage/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="286">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SgtPeppers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StuClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StuClassConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StuTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanFactory.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SgtPeppers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BeanPackage/SgtPeppers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="98">
               <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,36 +134,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Images.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/Images.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -101,6 +154,11 @@
         <option value="$PROJECT_DIR$/src/BeanPackage/BeanTest.java" />
         <option value="$PROJECT_DIR$/src/BeanPackage/Images.java" />
         <option value="$PROJECT_DIR$/src/BeanPackage/SgtPeppers.java" />
+        <option value="$PROJECT_DIR$/src/BeanPackage/Student.java" />
+        <option value="$PROJECT_DIR$/src/config.xml" />
+        <option value="$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java" />
+        <option value="$PROJECT_DIR$/src/BeanPackage/StuTest.java" />
+        <option value="$PROJECT_DIR$/src/BeanPackage/StuClass.java" />
       </list>
     </option>
   </component>
@@ -175,18 +233,6 @@
               <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BeanPackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringConfigPack" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,6 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/Self-code/java/MyLearn/SpringAutoWired/src/SpringConfigPack/StuClassConfig.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -216,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StuTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -237,6 +284,52 @@
       <option name="MAIN_CLASS_NAME" value="BeanPackage.BeanTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringAutoWired" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BeanPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="BeanPackage" />
+      <option name="MAIN_CLASS_NAME" value="BeanPackage.StuTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StuTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringAutoWired" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BeanPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="BeanPackage" />
+      <option name="MAIN_CLASS_NAME" value="BeanPackage.StuTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -284,8 +377,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.BeanTest" />
+      <item itemvalue="JUnit.StuTest.test" />
+      <item itemvalue="JUnit.StuTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StuTest" />
+        <item itemvalue="JUnit.StuTest.test" />
         <item itemvalue="JUnit.BeanTest" />
       </list>
     </recent_temporary>
@@ -300,46 +400,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571664765719</updated>
-      <workItem from="1571664884436" duration="2591000" />
+      <workItem from="1571664884436" duration="5608000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BeanTest - 2019.10.21 at 21h 57m 56s.xml">
-      <configuration name="BeanTest" configurationId="JUnit" />
+    <history-entry file="StuTest - 2019.10.22 at 22h 18m 53s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 21m 03s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 22m 45s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 24m 47s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 25m 13s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 25m 38s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 27m 42s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 28m 15s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 28m 40s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StuTest - 2019.10.22 at 22h 28m 59s.xml">
+      <configuration name="StuTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2591000" />
+    <option name="totallyTimeSpent" value="5608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependency Viewer" weight="0.329927" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24983256" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.24983256" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24983256" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" sideWeight="0.50108933" side_tool="true" weight="0.24983256" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -361,16 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/CDPlayerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BeanPackage/CompactDisc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -382,18 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -413,12 +519,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BeanPackage/SgtPeppers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="98">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#469#470#0" expanded="true" />
             <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/CDPlayerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BeanPackage/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
           </folding>
         </state>
       </provider>

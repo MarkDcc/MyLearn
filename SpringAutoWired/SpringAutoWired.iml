@@ -2,7 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration>
+        <fileset id="fileset" name="Config" removed="false">
+          <file>file://$MODULE_DIR$/src/config.xml</file>
+          <file>file://$MODULE_DIR$/src/SpringConfigPack/CDPlayerClass.java</file>
+          <file>file://$MODULE_DIR$/src/SpringConfigPack/StuClassConfig.java</file>
+        </fileset>
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
