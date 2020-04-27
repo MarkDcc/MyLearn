@@ -5,8 +5,7 @@
 
     <bean id="student" class="BeanPackage.Student">
         <constructor-arg value="一班">
-
         </constructor-arg>
-
     </bean>
+
 </beans>

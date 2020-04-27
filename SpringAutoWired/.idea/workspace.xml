@@ -14,12 +14,34 @@
     <favorites_list name="SpringAutoWired" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CDPlayerClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/CDPlayerClass.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Husband.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditionalBean/Husband.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wife.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditionalBean/Wife.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HWConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/HWConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,53 +49,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/Student.java">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/conditionalBean/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StuClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StuClassConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="192">
+              <caret line="18" column="88" lean-forward="true" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StuTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuTest.java">
+      <file leaf-file-name="HusbandCondition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditionalBean/HusbandCondition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="318">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestHW.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditionalBean/TestHW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,52 +88,11 @@
       <file leaf-file-name="BeanTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="418">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanFactory.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SgtPeppers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeanPackage/SgtPeppers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Qualifier.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/annotation/Qualifier.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -155,10 +118,16 @@
         <option value="$PROJECT_DIR$/src/BeanPackage/Images.java" />
         <option value="$PROJECT_DIR$/src/BeanPackage/SgtPeppers.java" />
         <option value="$PROJECT_DIR$/src/BeanPackage/Student.java" />
-        <option value="$PROJECT_DIR$/src/config.xml" />
         <option value="$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java" />
         <option value="$PROJECT_DIR$/src/BeanPackage/StuTest.java" />
         <option value="$PROJECT_DIR$/src/BeanPackage/StuClass.java" />
+        <option value="$PROJECT_DIR$/src/config.xml" />
+        <option value="$PROJECT_DIR$/src/conditionalBean/Wife.java" />
+        <option value="$PROJECT_DIR$/src/conditionalBean/TestHW.java" />
+        <option value="$PROJECT_DIR$/src/SpringConfigPack/HWConfig.java" />
+        <option value="$PROJECT_DIR$/src/conditionalBean/HusbandCondition.java" />
+        <option value="$PROJECT_DIR$/src/conditionalBean/Husband.java" />
+        <option value="$PROJECT_DIR$/src/conditionalBean/MainClass.java" />
       </list>
     </option>
   </component>
@@ -218,8 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,6 +202,33 @@
               <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BeanPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="conditionalBean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringAutoWired" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringConfigPack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="SpringAutoWired" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,16 +236,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/Self-code/java/MyLearn/SpringAutoWired/src/SpringConfigPack/StuClassConfig.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,9 +262,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StuTest">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalBean.MainClass" />
+      <module name="SpringAutoWired" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=test" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditionalBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -339,6 +350,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="TestHW.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringAutoWired" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditionalBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="conditionalBean" />
+      <option name="MAIN_CLASS_NAME" value="conditionalBean.TestHW" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -378,12 +412,16 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.MainClass" />
       <item itemvalue="JUnit.BeanTest" />
       <item itemvalue="JUnit.StuTest.test" />
       <item itemvalue="JUnit.StuTest" />
+      <item itemvalue="JUnit.TestHW.test01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.TestHW.test01" />
         <item itemvalue="JUnit.StuTest" />
         <item itemvalue="JUnit.StuTest.test" />
         <item itemvalue="JUnit.BeanTest" />
@@ -400,79 +438,88 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571664765719</updated>
-      <workItem from="1571664884436" duration="5608000" />
+      <workItem from="1571664884436" duration="11905000" />
+      <workItem from="1572061573855" duration="6242000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StuTest - 2019.10.22 at 22h 18m 53s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.23 at 22h 47m 43s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 21m 03s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.23 at 22h 48m 52s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 22m 45s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.23 at 22h 49m 43s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 24m 47s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 04m 06s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 25m 13s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 05m 19s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 25m 38s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 05m 27s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 27m 42s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 06m 03s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 28m 15s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 06m 40s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 28m 40s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 07m 15s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StuTest - 2019.10.22 at 22h 28m 59s.xml">
-      <configuration name="StuTest" configurationId="JUnit" />
+    <history-entry file="TestHW_test01 - 2019.10.26 at 11h 08m 56s.xml">
+      <configuration name="TestHW.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5608000" />
+    <option name="totallyTimeSpent" value="18147000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Dependency Viewer" weight="0.329927" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329927" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26861313" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329927" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.25318152" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24983256" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.24983256" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" sideWeight="0.50108933" side_tool="true" weight="0.24983256" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.50108933" side_tool="true" weight="0.24983256" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="7" weight="0.329927" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +528,70 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/Husband.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/Wife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/HWConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/TestHW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanPackageComponentScanIF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -521,45 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/CDPlayerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -573,38 +644,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BeanPackage/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BeanPackage/StuClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ComponentScans.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/StuClassConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="35" />
           <folding>
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/Conditional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-test-4.3.18.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/CDPlayerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BeanPackage/BeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpringConfigPack/HWConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/TestHW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.context.ApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.context.ApplicationContext</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.beans.factory.HierarchicalBeanFactory</node>
+            <node x="" y="">org.springframework.core.io.ResourceLoader</node>
+            <node x="" y="">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="" y="">org.springframework.beans.factory.BeanFactory</node>
+            <node x="" y="">org.springframework.context.ApplicationEventPublisher</node>
+            <node x="" y="">org.springframework.core.io.support.ResourcePatternResolver</node>
+            <node x="" y="">org.springframework.context.ApplicationContext</node>
+            <node x="" y="">org.springframework.beans.factory.ListableBeanFactory</node>
+            <node x="" y="">org.springframework.context.MessageSource</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9628670120898101" x="594.0" y="79.69013452914797" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/HusbandCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/Wife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/Husband.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditionalBean/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="18" column="88" lean-forward="true" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
