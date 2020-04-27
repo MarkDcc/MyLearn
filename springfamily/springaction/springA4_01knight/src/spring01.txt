@@ -1,0 +1,2 @@
+1.spring 通过DI来装配POJO到Bean
+2.spring应用上下文（application context）全权负责对象的创建和组装
