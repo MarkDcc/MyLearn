@@ -63,5 +63,8 @@
 
       <module>springJPATest</module>
       <module>springA4_01knight</module>
+      <module>springA4_02</module>
+      <module>springA4-02</module>
+      <module>springA4_02Assembly</module>
   </modules>
 </project>
