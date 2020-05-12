@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springA4_01knight/springA4_01knight.iml" filepath="$PROJECT_DIR$/springA4_01knight/springA4_01knight.iml" />
       <module fileurl="file://$PROJECT_DIR$/springA4_02Assembly/springA4_02Assembly.iml" filepath="$PROJECT_DIR$/springA4_02Assembly/springA4_02Assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springA4_03AdvanceAssembly/springA4_03AdvanceAssembly.iml" filepath="$PROJECT_DIR$/springA4_03AdvanceAssembly/springA4_03AdvanceAssembly.iml" />
       <module fileurl="file://$PROJECT_DIR$/springJPATest/springJPATest.iml" filepath="$PROJECT_DIR$/springJPATest/springJPATest.iml" />
       <module fileurl="file://$PROJECT_DIR$/springiA4_code.iml" filepath="$PROJECT_DIR$/springiA4_code.iml" />
     </modules>

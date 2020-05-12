@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springA4_02Assembly" />
+        <module name="springA4_03AdvanceAssembly" />
         <module name="springJPATest" />
         <module name="springA4_01knight" />
       </profile>
@@ -15,6 +16,7 @@
       <module name="springA4_01knight" target="1.5" />
       <module name="springA4_02" target="1.5" />
       <module name="springA4_02Assembly" target="1.5" />
+      <module name="springA4_03AdvanceAssembly" target="6" />
       <module name="springiA4_code" target="1.5" />
       <module name="springJPATest" target="1.5" />
     </bytecodeTargetLevel>
