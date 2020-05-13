@@ -67,5 +67,6 @@
       <module>springA4-02</module>
       <module>springA4_02Assembly</module>
       <module>springA4_03AdvanceAssembly</module>
+      <module>springA4_04AOP</module>
   </modules>
 </project>

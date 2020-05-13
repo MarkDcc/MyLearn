@@ -9,6 +9,7 @@
         <module name="springA4_02Assembly" />
         <module name="springA4_03AdvanceAssembly" />
         <module name="springJPATest" />
+        <module name="springA4_04AOP" />
         <module name="springA4_01knight" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="springA4_02" target="1.5" />
       <module name="springA4_02Assembly" target="1.5" />
       <module name="springA4_03AdvanceAssembly" target="6" />
+      <module name="springA4_04AOP" target="1.5" />
       <module name="springiA4_code" target="1.5" />
       <module name="springJPATest" target="1.5" />
     </bytecodeTargetLevel>
