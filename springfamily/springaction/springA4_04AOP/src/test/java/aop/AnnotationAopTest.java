@@ -22,5 +22,6 @@ public class AnnotationAopTest {
     @Test
     public void testAop(){
         actor.perform();
+
     }
 }
